@@ -1,3 +1,9 @@
 .f-white{
     color: white;
 }
+.f-big{
+    font-weight: 1000;
+}
+.f-grey{
+    color: #989898;
+}

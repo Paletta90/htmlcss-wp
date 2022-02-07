@@ -52,7 +52,7 @@ footer{
 
 .first-block{
     width: 100%;
-    height: 600px;
+    height: 500px;
     position: relative;
     
 }
@@ -78,12 +78,12 @@ footer{
 .second-block{
     /* width: 100%; */
     height: 50vh;
-    background-color: #0086ff;
+    /* background-color: #0086ff; */
 } 
 
 .block-top{
     width: 100%;
-    height: 10%;
+    /* height: 10%; */
 }
 
 .block-float{
@@ -108,7 +108,6 @@ footer{
     margin: 15px 0 15px 15px;
     float: left;
 }
-.block-top,
 .block-left,
 .block-center,
 .block-right{
