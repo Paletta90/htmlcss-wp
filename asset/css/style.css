@@ -99,6 +99,11 @@ footer{
     background-position: center;
     border-radius: 20px;
 }
+.bg-right{
+    background-image: url("../img/img-3.jpg");
+    background-position: center;
+    border-radius: 20px;
+}
 
 .block-float{
     width: 100%;
@@ -125,7 +130,4 @@ footer{
 }
 
 
-.block-right{
-    background-color:#abcfe7 ;
-}
 
