@@ -51,11 +51,30 @@ footer{
 }
 
 .first-block{
-    /* width: 100%; */
-    height: 40vh;
-    background-color: #e1d67a;
+    width: 100%;
+    height: 600px;
+    position: relative;
+    
 }
 
+.bg-first{
+    height: 100%;
+    background-image: url("../img/banner.jpg");
+    background-size: cover;
+    background-position: center;
+    border-radius: 20px;
+}
+.container-description{
+    position: absolute;
+    bottom: 10%;
+    left: 10%;
+    right: 50%;
+}
+.opacity{
+    height: 100%;
+    background-color: rgba(0,0,0,0.3);
+    border-radius: 20px;
+}
 .second-block{
     /* width: 100%; */
     height: 50vh;
